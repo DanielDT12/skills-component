@@ -1,0 +1,25 @@
+.skills-list {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-block: 2rem;
+	gap: 1rem;
+
+	&__card {
+		border-radius: 0.75em;
+		padding: 1rem;
+		background-color: rgb(24, 26, 49);
+		text-align: center;
+	}
+
+	&__card-img {
+		width: clamp(5rem, 20vw, 8rem);
+		margin-bottom: 0.5rem;
+	}
+
+	&__title {
+		font-weight: bold;
+		letter-spacing: 0.6px;
+	}
+}
