@@ -1,27 +1,27 @@
 const SKILLS_LIST_DATA = [
 	{
 		title: "HTML",
-		src: "/icons/skills/HTML.svg",
+		src: "/HTML.svg",
 	},
 	{
 		title: "CSS",
-		src: "/icons/skills/CSS.svg",
+		src: "/CSS.svg",
 	},
 	{
 		title: "SCSS",
-		src: "/icons/skills/Sass.svg",
+		src: "/Sass.svg",
 	},
 	{
 		title: "JS",
-		src: "/icons/skills/JS.svg",
+		src: "/JS.svg",
 	},
 	{
 		title: "React",
-		src: "/icons/skills/React.svg",
+		src: "/React.svg",
 	},
 	{
 		title: "Git",
-		src: "/icons/skills/GIT.svg",
+		src: "/GIT.svg",
 	},
 ];
 
